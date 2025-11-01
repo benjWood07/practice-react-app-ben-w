@@ -9,6 +9,7 @@
   padding: 20px;
   font-family: Arial, sans-serif;
   min-height: 100vh;
+  background: rgb(139, 133, 121);
 }
 
 .profile-container {
@@ -19,18 +20,22 @@
 
 .profile-container h1 {
   margin-bottom: 30px;
+  color: #498f34;
 }
 
 .profile-card {
   padding: 20px;
   margin: 15px;
   border-radius: 8px;
+  color: rgb(107, 226, 241);
 }
 
 .profile-card h2 {
   margin-top: 0;
+  color: #454b39;
 }
 
 .profile-card p {
   margin: 10px 0;
+  color: #4bdff3;
 }
